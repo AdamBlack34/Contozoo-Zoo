@@ -1,0 +1,40 @@
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\appsettings.json
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.exe
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.deps.json
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.runtimeconfig.json
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.runtimeconfig.dev.json
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.dll
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\ref\Contozoo Zoo.dll
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.pdb
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.Views.dll
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\bin\Debug\net5.0\Contozoo Zoo.Views.pdb
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.csproj.AssemblyReference.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.AssemblyInfoInputs.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.AssemblyInfo.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.csproj.CoreCompileInputs.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.RazorAssemblyInfo.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.RazorAssemblyInfo.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\staticwebassets\Contozoo Zoo.StaticWebAssets.Manifest.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\staticwebassets\Contozoo Zoo.StaticWebAssets.xml
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\scopedcss\bundle\Contozoo Zoo.styles.css
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.TagHelpers.input.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.TagHelpers.output.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.RazorCoreGenerate.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.RazorTargetAssemblyInfo.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.RazorTargetAssemblyInfo.cs
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.Views.pdb
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.dll
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\ref\Contozoo Zoo.dll
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.pdb
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.genruntimeconfig.cache
+C:\Users\adamb\source\repos\Contozoo-Zoo\Contozoo Zoo\Contozoo Zoo\obj\Debug\net5.0\Contozoo Zoo.csproj.CopyComplete
